@@ -1,13 +1,13 @@
 /*
- * @lc app=leetcode id=1800 lang=cpp
+ * @lc app=leetcode id=1 lang=cpp
  *
- * [1800] Maximum Ascending Subarray Sum
+ * [1] Two Sum
  */
 
 // @lc code=start
 class Solution {
 public:
-    int maxAscendingSum(vector<int>& nums) {
+    vector<int> twoSum(vector<int>& nums, int target) {
         unordered_map<int, int>m;
         for (int i= 0; ; ++i) {
             int x = nums[i];
@@ -19,7 +19,5 @@ public:
         }
     }
 };
-
-
 // @lc code=end
 
