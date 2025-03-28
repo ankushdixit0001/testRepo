@@ -30,7 +30,6 @@
 
 ---
 
-
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
@@ -67,15 +66,9 @@
     </picture>
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/daytonaio/daytona">
-    <img
-      src="https://api.vaunt.dev/v1/github/entities/ankushdixit0001/achievements?format=svg&limit=6"
-      width="400"
-    />
-  </a>
-</p>
-<br />
+
+---
+
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
@@ -124,9 +117,6 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankushdixit0001&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" alt="Contribution Graph" />
 </div>
-<!-- <p align="center">⚠️ If the graph doesn't load, it might be due to API rate limits. Please try again later.</p> -->
-
----
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
@@ -137,8 +127,9 @@
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
-<!--Contact Section--> 
+---
 
+<!--Contact Section--> 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <p align="center">
   <a href="mailto:ankushdixit29@gmail.com" target="_blank"><img src="./gmail.png" width=30 height=30 alt="Gmail" /></a>
@@ -154,7 +145,6 @@
 <div align="center">
 <a href="https://www.buymeacoffee.com/ankushdixit0001" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
-
 
 <!--Footer--> 
 <p align="center">
