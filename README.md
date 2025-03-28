@@ -30,6 +30,7 @@
 
 ---
 
+
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
@@ -66,9 +67,15 @@
     </picture>
   </a>
 </p>
-
----
-
+<p align="center">
+  <a href="https://github.com/daytonaio/daytona">
+    <img
+      src="https://api.vaunt.dev/v1/github/entities/ankushdixit0001/achievements?format=svg&limit=6"
+      width="400"
+    />
+  </a>
+</p>
+<br />
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
@@ -78,7 +85,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/ankushdixit0001">
-          <img align="center" src="https://your-deployment-url/api?username=ankushdixit0001&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankushdixit0001&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -96,7 +103,7 @@
       <h3 align="center"><strong>Top Languages</strong></h3>
       <p align="center">
         <a href="https://github.com/ankushdixit0001">
-          <img align="center" src="https://your-deployment-url/api/top-langs/?username=ankushdixit0001&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushdixit0001&layout=compact&theme=radical" alt="Top Languages" />
         </a>
       </p>
     </td>
@@ -111,13 +118,13 @@
   </tr>
 </table>
 
----
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://your-deployment-url/graph?username=ankushdixit0001&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false&count_private=true" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankushdixit0001&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" alt="Contribution Graph" />
 </div>
+<!-- <p align="center">⚠️ If the graph doesn't load, it might be due to API rate limits. Please try again later.</p> -->
 
 ---
 
@@ -130,9 +137,8 @@
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
----
-
 <!--Contact Section--> 
+
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <p align="center">
   <a href="mailto:ankushdixit29@gmail.com" target="_blank"><img src="./gmail.png" width=30 height=30 alt="Gmail" /></a>
@@ -148,6 +154,7 @@
 <div align="center">
 <a href="https://www.buymeacoffee.com/ankushdixit0001" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
+
 
 <!--Footer--> 
 <p align="center">
