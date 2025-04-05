@@ -1,5 +1,5 @@
 <!--Banner-->
-![Ankush Dixit Banner Image](./banner.png)
+![Ankush Dixit Banner Image](./banner1.png)
 
 <!--Night Owl image-->
 <div>
@@ -17,9 +17,6 @@
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/ankushdixit0001).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/ankushdixit0001).
-- ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://ankushdixit0001.github.io) for more details about me.
 <!--End Intro-->
 
@@ -41,19 +38,20 @@
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+  <li>Mastering Data Structures and Algorithms using C++.</li>
+  <li>Learning Object-Oriented Programming and System Design fundamentals.</li>
+  <!-- <li>Understanding the architecture and development of chat applications (e.g., Telegram).</li> -->
+  <li>Exploring web development basics including HTML, CSS, JavaScript, and PHP.</li>
 </ul>
-  
+
 <h3 align="left">Skills</h3>
 <ul align="left">
-  <li>Proficient in Data Structures and Algorithms (DSA) using C++.</li>
-  <li>Experienced in web development with HTML, CSS, JavaScript, and PHP.</li>
-  <li>Knowledge of Python and Java for backend and general-purpose programming.</li>
-  <li>Strong understanding of Operating Systems and DBMS concepts.</li>
-  <li>Proficient in using MS Office tools for productivity.</li>
+  <li>Proficient in C++ with focus on problem-solving and DSA.</li>
+  <li>Basic experience with web technologies: HTML, CSS, JavaScript, and PHP.</li>
+  <li>Understanding of Operating Systems and DBMS fundamentals from coursework.</li>
+  <li>Familiar with MS Office tools for documentation and productivity.</li>
 </ul>
+
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
@@ -142,13 +140,11 @@
   <a href="https://www.linkedin.com/in/ankushdixit0001/" target="_blank"><img src="./linkedin.png" width=30 height=30 alt="LinkedIn" /></a>
   <a href="https://dev.to/ankushdixit0001" target="_blank"><img src="./dev_to.png" width=30 height=30 alt="DEV" /></a>
 </p>
-<br/>
 
-<!--Buy me a coffee-->
+<!-- Buy me a coffee
 <div align="center">
 <a href="https://www.buymeacoffee.com/ankushdixit0001" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
-</div>
-
+</div> -->
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
